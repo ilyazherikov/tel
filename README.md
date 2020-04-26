@@ -1,5 +1,5 @@
 # Tel
-Free American and Russian manual alphabet font
+Free font containing Russian and American sign language alphabets.
 
 ## To Make a Long Story Longer
 When working on ‘Rocketbank Without Borders’ project spring 2019, I discovered that there was only one available font for Russian sign language alphabet. It was created back in 2001 and basically consists of scanned pictures put into a font file.
